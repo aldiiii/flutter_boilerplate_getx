@@ -1,4 +1,4 @@
-# daytech
+# Futter starter kit with Getx
 
 A new Flutter project.
 
